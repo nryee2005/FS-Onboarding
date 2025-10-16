@@ -1,0 +1,9 @@
+.ipynb_checkpoints/ *.pyc
+__pycache__/
+.ipynb_checkpoints/
+pytorch_env/
+**/*.dylib
+pytorch_env/
+**/*.dylib
+pytorch_env/
+**/*.dylib
