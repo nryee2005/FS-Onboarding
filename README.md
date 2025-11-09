@@ -1,8 +1,7 @@
 # Formula Slug Autonomous Onboarding Project
 
 ## Description
-This project takes the KMNIST dataset, which consists of images of 10 different Japanese characters, and uses a Pytorch NN to identify characters in the test set. 
-
+This project takes the KMNIST dataset, which consists of images of 10 different Japanese characters, and uses a Pytorch NN to identify characters in the test set. hello
 ## Setup
 ```bash
 # Create environment
